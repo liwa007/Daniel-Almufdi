@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dr. Almufdi - Professional Dentist</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; text-align: center; }
+        header { background: #0073e6; color: white; padding: 20px; font-size: 24px; }
+        section { padding: 20px; }
+        .contact-info { background: #f4f4f4; padding: 15px; }
+        img { width: 200px; border-radius: 10px; margin-top: 10px; }
+    </style>
+</head>
+<body>
+    <header>Welcome to Dr. Almufdi's Dental Practice</header>
+    
+    <section>
+        <h2>About Dr. Almufdi</h2>
+        <img src="Untitled.jpg" alt="Dr. Almufdi">
+        <p>Professional dentist with years of experience, working in the Netherlands.</p>
+    </section>
+    
+    <section>
+        <h2>Services</h2>
+        <p>General Dentistry | Cosmetic Dentistry | Dental Implants | Orthodontics</p>
+    </section>
+    
+    <section>
+        <h2>Work Locations & Schedule</h2>
+        <p><strong>Tuesday & Wednesday:</strong> Tandartspraktijk Tandbewust</p>
+        <p><strong>Thursday & Friday:</strong> M3 Helmond</p>
+    </section>
+    
+    <section class="contact-info">
+        <h2>Contact</h2>
+        <p>Email: <a href="mailto:dr.mhd.almufdi@gmail.com">dr.mhd.almufdi@gmail.com</a></p>
+        <p>Phone: <a href="tel:+31681804767">+31 681 804 767</a></p>
+    </section>
+</body>
+</html>
